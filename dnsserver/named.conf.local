@@ -2,12 +2,12 @@
 // Do any local configuration here
 //
 
-zone "test.lan" {
+zone "stark.lan" {
 	type primary;
-    file "zonas/db.test.lan";
+    file "zonas/db.stark.lan";
 };
 
-zone "130.168.192.in-addr.arpa" {
+zone "10.168.192.in-addr.arpa" {
     type primary;
-    file "zonas/db.130";
+    file "zonas/db.10";
 };

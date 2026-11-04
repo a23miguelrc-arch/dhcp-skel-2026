@@ -1,0 +1,59 @@
+{
+  "Dhcp4": {
+    "interfaces-config": {
+      "interfaces": [
+        "eth0"
+      ]
+    },
+    "lease-database": {
+      "type": "memfile",
+      "persist": true,
+      "name": "/var/lib/kea/kea-leases4.csv",
+      "lfc-interval": 1800,
+      "max-row-errors": 100
+    },
+    "valid-lifetime": 3600,
+    "rebind-timer": 3000,
+    "authoritative": true,
+    "renew-timer": 1800,
+    "option-data": [
+      { "name": "domain-name-servers", "data": "192.168.10.9" }
+    ],
+    "subnet4": [
+      {
+        "id": 1,
+        "subnet": "192.168.10.0/24",
+        "option-data": [
+          { "name": "routers", "data": "192.168.10.254" },
+          { "name": "domain-search", "data": "stark.lan" }
+        ],
+        "pools": [
+          {
+            "pool": "192.168.10.30 - 192.168.10.32",
+            "option-data": [
+              { "name": "routers", "data": "192.168.10.253" }
+            ]
+          },
+          {
+            "pool": "192.168.10.101 - 192.168.10.230"  
+          }
+        ],
+        "reservations": [
+          {
+            "hw-address": "02:42:ac:11:00:10",
+            "ip-address": "192.168.10.30",
+            "option-data": [
+              { "name": "routers", "data": "192.168.10.252" }
+            ]
+          }
+        ]
+      }
+    ],
+    "loggers": [
+      {
+        "name": "*",
+        "severity": "DEBUG"
+      }
+    ]
+  }
+}
