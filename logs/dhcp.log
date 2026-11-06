@@ -1,0 +1,121 @@
+2026-11-06 11:35:07.246 DEBUG [kea-dhcp4.leases/1.136214324508352] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x96112e7e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:07.246 DEBUG [kea-dhcp4.leases/1.136214316115648] DHCP4_DISCOVER [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0xfdec9024: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:07.246 INFO  [kea-dhcp4.leases/1.136214316115648] DHCP4_LEASE_OFFER [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0xfdec9024: lease 192.168.10.30 will be offered
+2026-11-06 11:35:07.247 DEBUG [kea-dhcp4.leases/1.136214307722944] DHCP4_REQUEST [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0xfdec9024: server is processing DHCPREQUEST with hint=192.168.10.30
+2026-11-06 11:35:07.247 INFO  [kea-dhcp4.leases/1.136214307722944] DHCP4_LEASE_ALLOC [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0xfdec9024: lease 192.168.10.30 has been allocated for 3600 seconds
+2026-11-06 11:35:07.251 DEBUG [kea-dhcp4.leases/1.136214299330240] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xaae4cc76: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:07.261 DEBUG [kea-dhcp4.leases/1.136214290937536] DHCP4_DISCOVER [hwtype=1 4a:55:4c:d6:ce:c9], cid=[no info], tid=0x21b25738: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:07.261 INFO  [kea-dhcp4.leases/1.136214290937536] DHCP4_LEASE_OFFER [hwtype=1 4a:55:4c:d6:ce:c9], cid=[no info], tid=0x21b25738: lease 192.168.10.31 will be offered
+2026-11-06 11:35:07.262 DEBUG [kea-dhcp4.leases/1.136214282544832] DHCP4_REQUEST [hwtype=1 4a:55:4c:d6:ce:c9], cid=[no info], tid=0x21b25738: server is processing DHCPREQUEST with hint=192.168.10.31
+2026-11-06 11:35:07.262 INFO  [kea-dhcp4.leases/1.136214282544832] DHCP4_LEASE_ALLOC [hwtype=1 4a:55:4c:d6:ce:c9], cid=[no info], tid=0x21b25738: lease 192.168.10.31 has been allocated for 3600 seconds
+2026-11-06 11:35:07.267 DEBUG [kea-dhcp4.leases/1.136214274152128] DHCP4_DISCOVER [hwtype=1 9e:01:8f:8e:6a:e1], cid=[no info], tid=0x3ad65102: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:07.267 INFO  [kea-dhcp4.leases/1.136214274152128] DHCP4_LEASE_OFFER [hwtype=1 9e:01:8f:8e:6a:e1], cid=[no info], tid=0x3ad65102: lease 192.168.10.32 will be offered
+2026-11-06 11:35:07.268 DEBUG [kea-dhcp4.leases/1.136214265759424] DHCP4_REQUEST [hwtype=1 9e:01:8f:8e:6a:e1], cid=[no info], tid=0x3ad65102: server is processing DHCPREQUEST with hint=192.168.10.32
+2026-11-06 11:35:07.268 INFO  [kea-dhcp4.leases/1.136214265759424] DHCP4_LEASE_ALLOC [hwtype=1 9e:01:8f:8e:6a:e1], cid=[no info], tid=0x3ad65102: lease 192.168.10.32 has been allocated for 3600 seconds
+2026-11-06 11:35:10.833 DEBUG [kea-dhcp4.leases/1.136214257366720] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x96112e7e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:11.932 DEBUG [kea-dhcp4.leases/1.136214248974016] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xaae4cc76: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:16.188 DEBUG [kea-dhcp4.leases/1.136214240581312] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xaae4cc76: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:16.836 DEBUG [kea-dhcp4.leases/1.136214232188608] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x96112e7e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:27.219 DEBUG [kea-dhcp4.leases/1.136214223795904] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xaae4cc76: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:34.014 DEBUG [kea-dhcp4.leases/1.136214215403200] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x96112e7e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:45.585 DEBUG [kea-dhcp4.leases/1.136214207010496] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xaae4cc76: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:46.016 DEBUG [kea-dhcp4.leases/1.136214198617792] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x96112e7e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:54.961 DEBUG [kea-dhcp4.leases/1.136214190225088] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xaae4cc76: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:35:55.375 DEBUG [kea-dhcp4.leases/1.136214181832384] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x96112e7e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:36:03.817 DEBUG [kea-dhcp4.leases/1.136214173439680] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xaae4cc76: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:39:37.126 DEBUG [kea-dhcp4.leases/1.136214165046976] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x21e1533a: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:39:43.517 DEBUG [kea-dhcp4.leases/1.136214156654272] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x21e1533a: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:39:49.956 DEBUG [kea-dhcp4.leases/1.136214148261568] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x21e1533a: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:40:00.092 DEBUG [kea-dhcp4.leases/1.136214139868864] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x21e1533a: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:40:01.039 DEBUG [kea-dhcp4.leases/1.136214131476160] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xf7d66300: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:40:08.639 DEBUG [kea-dhcp4.leases/1.136214324508352] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x21e1533a: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:40:08.907 DEBUG [kea-dhcp4.leases/1.136214316115648] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xf7d66300: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:40:17.101 DEBUG [kea-dhcp4.leases/1.136214307722944] DHCP4_DISCOVER [hwtype=1 2e:94:f4:f1:55:d2], cid=[no info], tid=0x21e1533a: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:40:18.495 DEBUG [kea-dhcp4.leases/1.136214299330240] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xf7d66300: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:40:27.625 DEBUG [kea-dhcp4.leases/1.136214290937536] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xf7d66300: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:40:42.181 DEBUG [kea-dhcp4.leases/1.136214282544832] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xf7d66300: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:40:50.348 DEBUG [kea-dhcp4.leases/1.136214274152128] DHCP4_DISCOVER [hwtype=1 52:42:d0:cc:45:ab], cid=[no info], tid=0xf7d66300: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:49:58.298 DEBUG [kea-dhcp4.leases/1.138014062560960] DHCP4_DISCOVER [hwtype=1 ba:0c:90:c7:db:45], cid=[no info], tid=0x247c5839: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:49:58.298 DEBUG [kea-dhcp4.leases/1.138014054168256] DHCP4_DISCOVER [hwtype=1 66:a0:32:01:1d:5b], cid=[no info], tid=0x88575f15: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:49:58.298 INFO  [kea-dhcp4.leases/1.138014054168256] DHCP4_LEASE_OFFER [hwtype=1 66:a0:32:01:1d:5b], cid=[no info], tid=0x88575f15: lease 192.168.11.30 will be offered
+2026-11-06 11:49:58.298 DEBUG [kea-dhcp4.leases/1.138014045775552] DHCP4_REQUEST [hwtype=1 66:a0:32:01:1d:5b], cid=[no info], tid=0x88575f15: server is processing DHCPREQUEST with hint=192.168.11.30
+2026-11-06 11:49:58.298 INFO  [kea-dhcp4.leases/1.138014045775552] DHCP4_LEASE_ALLOC [hwtype=1 66:a0:32:01:1d:5b], cid=[no info], tid=0x88575f15: lease 192.168.11.30 has been allocated for 3600 seconds
+2026-11-06 11:49:58.312 DEBUG [kea-dhcp4.leases/1.138014037382848] DHCP4_DISCOVER [hwtype=1 8e:00:46:3c:13:2a], cid=[no info], tid=0xc9d7037e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:49:58.312 INFO  [kea-dhcp4.leases/1.138014037382848] DHCP4_LEASE_OFFER [hwtype=1 8e:00:46:3c:13:2a], cid=[no info], tid=0xc9d7037e: lease 192.168.10.31 will be offered
+2026-11-06 11:49:58.312 DEBUG [kea-dhcp4.leases/1.138014028990144] DHCP4_REQUEST [hwtype=1 8e:00:46:3c:13:2a], cid=[no info], tid=0xc9d7037e: server is processing DHCPREQUEST with hint=192.168.10.31
+2026-11-06 11:49:58.312 INFO  [kea-dhcp4.leases/1.138014028990144] DHCP4_LEASE_ALLOC [hwtype=1 8e:00:46:3c:13:2a], cid=[no info], tid=0xc9d7037e: lease 192.168.10.31 has been allocated for 3600 seconds
+2026-11-06 11:49:58.313 DEBUG [kea-dhcp4.leases/1.138014020597440] DHCP4_DISCOVER [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0x8d71fd7e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:49:58.313 INFO  [kea-dhcp4.leases/1.138014020597440] DHCP4_LEASE_OFFER [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0x8d71fd7e: lease 192.168.10.30 will be offered
+2026-11-06 11:49:58.313 DEBUG [kea-dhcp4.leases/1.138014012204736] DHCP4_REQUEST [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0x8d71fd7e: server is processing DHCPREQUEST with hint=192.168.10.30
+2026-11-06 11:49:58.313 INFO  [kea-dhcp4.leases/1.138014012204736] DHCP4_LEASE_ALLOC [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0x8d71fd7e: lease 192.168.10.30 has been allocated for 3600 seconds
+2026-11-06 11:49:58.317 DEBUG [kea-dhcp4.leases/1.138014003812032] DHCP4_DISCOVER [hwtype=1 16:5f:fd:9e:86:fa], cid=[no info], tid=0x83166f3b: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:49:58.317 INFO  [kea-dhcp4.leases/1.138014003812032] DHCP4_LEASE_OFFER [hwtype=1 16:5f:fd:9e:86:fa], cid=[no info], tid=0x83166f3b: lease 192.168.10.32 will be offered
+2026-11-06 11:49:58.317 DEBUG [kea-dhcp4.leases/1.138013995419328] DHCP4_REQUEST [hwtype=1 16:5f:fd:9e:86:fa], cid=[no info], tid=0x83166f3b: server is processing DHCPREQUEST with hint=192.168.10.32
+2026-11-06 11:49:58.317 INFO  [kea-dhcp4.leases/1.138013995419328] DHCP4_LEASE_ALLOC [hwtype=1 16:5f:fd:9e:86:fa], cid=[no info], tid=0x83166f3b: lease 192.168.10.32 has been allocated for 3600 seconds
+2026-11-06 11:50:06.153 DEBUG [kea-dhcp4.leases/1.138013987026624] DHCP4_DISCOVER [hwtype=1 ba:0c:90:c7:db:45], cid=[no info], tid=0x247c5839: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:50:19.136 DEBUG [kea-dhcp4.leases/1.138013978633920] DHCP4_DISCOVER [hwtype=1 ba:0c:90:c7:db:45], cid=[no info], tid=0x247c5839: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:50:33.066 DEBUG [kea-dhcp4.leases/1.138013970241216] DHCP4_DISCOVER [hwtype=1 ba:0c:90:c7:db:45], cid=[no info], tid=0x247c5839: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:50:51.838 DEBUG [kea-dhcp4.leases/1.138013961848512] DHCP4_DISCOVER [hwtype=1 ba:0c:90:c7:db:45], cid=[no info], tid=0x247c5839: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:51:07.619 DEBUG [kea-dhcp4.leases/1.130082382509760] DHCP4_DISCOVER [hwtype=1 1a:8f:da:cd:b5:95], cid=[no info], tid=0x1d061576: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:51:07.619 INFO  [kea-dhcp4.leases/1.130082390902464] DHCP4_INIT_REBOOT [hwtype=1 42:b3:7b:7e:a0:be], cid=[no info], tid=0xc87b6b42: client is in INIT-REBOOT state and requests address 192.168.10.32
+2026-11-06 11:51:07.619 INFO  [kea-dhcp4.leases/1.130082382509760] DHCP4_LEASE_OFFER [hwtype=1 1a:8f:da:cd:b5:95], cid=[no info], tid=0x1d061576: lease 192.168.12.30 will be offered
+2026-11-06 11:51:07.619 DEBUG [kea-dhcp4.leases/1.130082374117056] DHCP4_REQUEST [hwtype=1 1a:8f:da:cd:b5:95], cid=[no info], tid=0x1d061576: server is processing DHCPREQUEST with hint=192.168.12.30
+2026-11-06 11:51:07.619 INFO  [kea-dhcp4.leases/1.130082374117056] DHCP4_LEASE_ALLOC [hwtype=1 1a:8f:da:cd:b5:95], cid=[no info], tid=0x1d061576: lease 192.168.12.30 has been allocated for 3600 seconds
+2026-11-06 11:51:07.625 DEBUG [kea-dhcp4.leases/1.130082365724352] DHCP4_DISCOVER [hwtype=1 42:b3:7b:7e:a0:be], cid=[no info], tid=0xf1494360: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:51:07.625 INFO  [kea-dhcp4.leases/1.130082365724352] DHCP4_LEASE_OFFER [hwtype=1 42:b3:7b:7e:a0:be], cid=[no info], tid=0xf1494360: lease 192.168.10.101 will be offered
+2026-11-06 11:51:07.625 DEBUG [kea-dhcp4.leases/1.130082357331648] DHCP4_REQUEST [hwtype=1 42:b3:7b:7e:a0:be], cid=[no info], tid=0xf1494360: server is processing DHCPREQUEST with hint=192.168.10.101
+2026-11-06 11:51:07.625 INFO  [kea-dhcp4.leases/1.130082357331648] DHCP4_LEASE_ALLOC [hwtype=1 42:b3:7b:7e:a0:be], cid=[no info], tid=0xf1494360: lease 192.168.10.101 has been allocated for 3600 seconds
+2026-11-06 11:51:07.626 INFO  [kea-dhcp4.leases/1.130082348938944] DHCP4_INIT_REBOOT [hwtype=1 16:f0:32:3d:3c:fc], cid=[no info], tid=0x54759556: client is in INIT-REBOOT state and requests address 192.168.11.30
+2026-11-06 11:51:07.627 INFO  [kea-dhcp4.leases/1.130082340546240] DHCP4_INIT_REBOOT [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0xe022ca4e: client is in INIT-REBOOT state and requests address 192.168.10.30
+2026-11-06 11:51:07.627 INFO  [kea-dhcp4.leases/1.130082340546240] DHCP4_LEASE_ALLOC [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0xe022ca4e: lease 192.168.10.30 has been allocated for 3600 seconds
+2026-11-06 11:51:07.633 DEBUG [kea-dhcp4.leases/1.130082332153536] DHCP4_DISCOVER [hwtype=1 16:f0:32:3d:3c:fc], cid=[no info], tid=0xca1cd06: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:51:07.633 INFO  [kea-dhcp4.leases/1.130082332153536] DHCP4_LEASE_OFFER [hwtype=1 16:f0:32:3d:3c:fc], cid=[no info], tid=0xca1cd06: lease 192.168.11.31 will be offered
+2026-11-06 11:51:07.633 DEBUG [kea-dhcp4.leases/1.130082323760832] DHCP4_REQUEST [hwtype=1 16:f0:32:3d:3c:fc], cid=[no info], tid=0xca1cd06: server is processing DHCPREQUEST with hint=192.168.11.31
+2026-11-06 11:51:07.633 INFO  [kea-dhcp4.leases/1.130082323760832] DHCP4_LEASE_ALLOC [hwtype=1 16:f0:32:3d:3c:fc], cid=[no info], tid=0xca1cd06: lease 192.168.11.31 has been allocated for 3600 seconds
+2026-11-06 11:51:07.641 INFO  [kea-dhcp4.leases/1.130082315368128] DHCP4_INIT_REBOOT [hwtype=1 06:0c:b2:16:43:34], cid=[no info], tid=0x9c08dc18: client is in INIT-REBOOT state and requests address 192.168.10.31
+2026-11-06 11:51:07.647 DEBUG [kea-dhcp4.leases/1.130082306975424] DHCP4_DISCOVER [hwtype=1 06:0c:b2:16:43:34], cid=[no info], tid=0x5475cf07: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:51:07.647 INFO  [kea-dhcp4.leases/1.130082306975424] DHCP4_LEASE_OFFER [hwtype=1 06:0c:b2:16:43:34], cid=[no info], tid=0x5475cf07: lease 192.168.10.102 will be offered
+2026-11-06 11:51:07.647 DEBUG [kea-dhcp4.leases/1.130082298582720] DHCP4_REQUEST [hwtype=1 06:0c:b2:16:43:34], cid=[no info], tid=0x5475cf07: server is processing DHCPREQUEST with hint=192.168.10.102
+2026-11-06 11:51:07.647 INFO  [kea-dhcp4.leases/1.130082298582720] DHCP4_LEASE_ALLOC [hwtype=1 06:0c:b2:16:43:34], cid=[no info], tid=0x5475cf07: lease 192.168.10.102 has been allocated for 3600 seconds
+2026-11-06 11:51:34.510 INFO  [kea-dhcp4.leases/1.128734017271488] DHCP4_INIT_REBOOT [hwtype=1 1e:e8:69:e4:13:2c], cid=[no info], tid=0x28d44d65: client is in INIT-REBOOT state and requests address 192.168.11.31
+2026-11-06 11:51:34.517 INFO  [kea-dhcp4.leases/1.128734008878784] DHCP4_INIT_REBOOT [hwtype=1 2a:1d:72:88:aa:c7], cid=[no info], tid=0xc0fb3a0f: client is in INIT-REBOOT state and requests address 192.168.12.30
+2026-11-06 11:51:34.519 INFO  [kea-dhcp4.leases/1.128734000486080] DHCP4_INIT_REBOOT [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0xe4118642: client is in INIT-REBOOT state and requests address 192.168.10.30
+2026-11-06 11:51:34.519 INFO  [kea-dhcp4.leases/1.128734000486080] DHCP4_LEASE_ALLOC [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0xe4118642: lease 192.168.10.30 has been allocated for 3600 seconds
+2026-11-06 11:51:34.531 DEBUG [kea-dhcp4.leases/1.128733992093376] DHCP4_DISCOVER [hwtype=1 1e:e8:69:e4:13:2c], cid=[no info], tid=0x9b94972e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:51:34.531 INFO  [kea-dhcp4.leases/1.128733992093376] DHCP4_LEASE_OFFER [hwtype=1 1e:e8:69:e4:13:2c], cid=[no info], tid=0x9b94972e: lease 192.168.11.32 will be offered
+2026-11-06 11:51:34.532 DEBUG [kea-dhcp4.leases/1.128733983700672] DHCP4_REQUEST [hwtype=1 1e:e8:69:e4:13:2c], cid=[no info], tid=0x9b94972e: server is processing DHCPREQUEST with hint=192.168.11.32
+2026-11-06 11:51:34.532 INFO  [kea-dhcp4.leases/1.128733975307968] DHCP4_INIT_REBOOT [hwtype=1 d6:8f:b9:c8:ec:66], cid=[no info], tid=0x49a05840: client is in INIT-REBOOT state and requests address 192.168.10.101
+2026-11-06 11:51:34.533 INFO  [kea-dhcp4.leases/1.128733983700672] DHCP4_LEASE_ALLOC [hwtype=1 1e:e8:69:e4:13:2c], cid=[no info], tid=0x9b94972e: lease 192.168.11.32 has been allocated for 3600 seconds
+2026-11-06 11:51:34.540 DEBUG [kea-dhcp4.leases/1.128733966915264] DHCP4_DISCOVER [hwtype=1 2a:1d:72:88:aa:c7], cid=[no info], tid=0xb8cfc65e: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:51:34.540 INFO  [kea-dhcp4.leases/1.128733966915264] DHCP4_LEASE_OFFER [hwtype=1 2a:1d:72:88:aa:c7], cid=[no info], tid=0xb8cfc65e: lease 192.168.12.31 will be offered
+2026-11-06 11:51:34.541 DEBUG [kea-dhcp4.leases/1.128733958522560] DHCP4_REQUEST [hwtype=1 2a:1d:72:88:aa:c7], cid=[no info], tid=0xb8cfc65e: server is processing DHCPREQUEST with hint=192.168.12.31
+2026-11-06 11:51:34.541 INFO  [kea-dhcp4.leases/1.128733958522560] DHCP4_LEASE_ALLOC [hwtype=1 2a:1d:72:88:aa:c7], cid=[no info], tid=0xb8cfc65e: lease 192.168.12.31 has been allocated for 3600 seconds
+2026-11-06 11:51:34.553 DEBUG [kea-dhcp4.leases/1.128733950129856] DHCP4_DISCOVER [hwtype=1 d6:8f:b9:c8:ec:66], cid=[no info], tid=0xe7218915: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:51:34.553 INFO  [kea-dhcp4.leases/1.128733941737152] DHCP4_INIT_REBOOT [hwtype=1 ea:61:51:23:61:5d], cid=[no info], tid=0x73d72867: client is in INIT-REBOOT state and requests address 192.168.10.102
+2026-11-06 11:51:34.553 INFO  [kea-dhcp4.leases/1.128733950129856] DHCP4_LEASE_OFFER [hwtype=1 d6:8f:b9:c8:ec:66], cid=[no info], tid=0xe7218915: lease 192.168.10.103 will be offered
+2026-11-06 11:51:34.554 DEBUG [kea-dhcp4.leases/1.128733933344448] DHCP4_REQUEST [hwtype=1 d6:8f:b9:c8:ec:66], cid=[no info], tid=0xe7218915: server is processing DHCPREQUEST with hint=192.168.10.103
+2026-11-06 11:51:34.555 INFO  [kea-dhcp4.leases/1.128733933344448] DHCP4_LEASE_ALLOC [hwtype=1 d6:8f:b9:c8:ec:66], cid=[no info], tid=0xe7218915: lease 192.168.10.103 has been allocated for 3600 seconds
+2026-11-06 11:51:34.572 DEBUG [kea-dhcp4.leases/1.128733924951744] DHCP4_DISCOVER [hwtype=1 ea:61:51:23:61:5d], cid=[no info], tid=0xd3f2fa15: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:51:34.572 INFO  [kea-dhcp4.leases/1.128733924951744] DHCP4_LEASE_OFFER [hwtype=1 ea:61:51:23:61:5d], cid=[no info], tid=0xd3f2fa15: lease 192.168.10.104 will be offered
+2026-11-06 11:51:34.573 DEBUG [kea-dhcp4.leases/1.128733916559040] DHCP4_REQUEST [hwtype=1 ea:61:51:23:61:5d], cid=[no info], tid=0xd3f2fa15: server is processing DHCPREQUEST with hint=192.168.10.104
+2026-11-06 11:51:34.573 INFO  [kea-dhcp4.leases/1.128733916559040] DHCP4_LEASE_ALLOC [hwtype=1 ea:61:51:23:61:5d], cid=[no info], tid=0xd3f2fa15: lease 192.168.10.104 has been allocated for 3600 seconds
+2026-11-06 11:53:37.939 DEBUG [kea-dhcp4.leases/1.128089825760960] DHCP4_DISCOVER [hwtype=1 4a:6b:0b:b8:6e:d4], cid=[no info], tid=0x112c41c: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:53:37.939 INFO  [kea-dhcp4.leases/1.128089825760960] DHCP4_LEASE_OFFER [hwtype=1 4a:6b:0b:b8:6e:d4], cid=[no info], tid=0x112c41c: lease 192.168.11.30 will be offered
+2026-11-06 11:53:37.939 DEBUG [kea-dhcp4.leases/1.128089817368256] DHCP4_REQUEST [hwtype=1 4a:6b:0b:b8:6e:d4], cid=[no info], tid=0x112c41c: server is processing DHCPREQUEST with hint=192.168.11.30
+2026-11-06 11:53:37.939 INFO  [kea-dhcp4.leases/1.128089817368256] DHCP4_LEASE_ALLOC [hwtype=1 4a:6b:0b:b8:6e:d4], cid=[no info], tid=0x112c41c: lease 192.168.11.30 has been allocated for 3600 seconds
+2026-11-06 11:53:37.939 DEBUG [kea-dhcp4.leases/1.128089808975552] DHCP4_DISCOVER [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0x82917b2a: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:53:37.939 INFO  [kea-dhcp4.leases/1.128089808975552] DHCP4_LEASE_OFFER [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0x82917b2a: lease 192.168.10.30 will be offered
+2026-11-06 11:53:37.940 DEBUG [kea-dhcp4.leases/1.128089800582848] DHCP4_REQUEST [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0x82917b2a: server is processing DHCPREQUEST with hint=192.168.10.30
+2026-11-06 11:53:37.940 INFO  [kea-dhcp4.leases/1.128089800582848] DHCP4_LEASE_ALLOC [hwtype=1 02:42:ac:11:00:10], cid=[no info], tid=0x82917b2a: lease 192.168.10.30 has been allocated for 3600 seconds
+2026-11-06 11:53:37.943 DEBUG [kea-dhcp4.leases/1.128089792190144] DHCP4_DISCOVER [hwtype=1 06:cc:0d:ac:34:dc], cid=[no info], tid=0x9b111348: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:53:37.943 DEBUG [kea-dhcp4.leases/1.128089783797440] DHCP4_DISCOVER [hwtype=1 36:2c:87:b0:54:ab], cid=[no info], tid=0x1305be66: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:53:37.943 INFO  [kea-dhcp4.leases/1.128089792190144] DHCP4_LEASE_OFFER [hwtype=1 06:cc:0d:ac:34:dc], cid=[no info], tid=0x9b111348: lease 192.168.10.31 will be offered
+2026-11-06 11:53:37.943 DEBUG [kea-dhcp4.leases/1.128089775404736] DHCP4_DISCOVER [hwtype=1 4e:82:b4:5a:d3:bd], cid=[no info], tid=0x543c122: server is processing DHCPDISCOVER with hint=(no hint)
+2026-11-06 11:53:37.943 INFO  [kea-dhcp4.leases/1.128089783797440] DHCP4_LEASE_OFFER [hwtype=1 36:2c:87:b0:54:ab], cid=[no info], tid=0x1305be66: lease 192.168.10.32 will be offered
+2026-11-06 11:53:37.943 INFO  [kea-dhcp4.leases/1.128089775404736] DHCP4_LEASE_OFFER [hwtype=1 4e:82:b4:5a:d3:bd], cid=[no info], tid=0x543c122: lease 192.168.12.30 will be offered
+2026-11-06 11:53:37.943 DEBUG [kea-dhcp4.leases/1.128089783797440] DHCP4_REQUEST [hwtype=1 06:cc:0d:ac:34:dc], cid=[no info], tid=0x9b111348: server is processing DHCPREQUEST with hint=192.168.10.31
+2026-11-06 11:53:37.943 INFO  [kea-dhcp4.leases/1.128089783797440] DHCP4_LEASE_ALLOC [hwtype=1 06:cc:0d:ac:34:dc], cid=[no info], tid=0x9b111348: lease 192.168.10.31 has been allocated for 3600 seconds
+2026-11-06 11:53:37.943 DEBUG [kea-dhcp4.leases/1.128089758619328] DHCP4_REQUEST [hwtype=1 36:2c:87:b0:54:ab], cid=[no info], tid=0x1305be66: server is processing DHCPREQUEST with hint=192.168.10.32
+2026-11-06 11:53:37.943 DEBUG [kea-dhcp4.leases/1.128089750226624] DHCP4_REQUEST [hwtype=1 4e:82:b4:5a:d3:bd], cid=[no info], tid=0x543c122: server is processing DHCPREQUEST with hint=192.168.12.30
+2026-11-06 11:53:37.943 INFO  [kea-dhcp4.leases/1.128089758619328] DHCP4_LEASE_ALLOC [hwtype=1 36:2c:87:b0:54:ab], cid=[no info], tid=0x1305be66: lease 192.168.10.32 has been allocated for 3600 seconds
+2026-11-06 11:53:37.943 INFO  [kea-dhcp4.leases/1.128089750226624] DHCP4_LEASE_ALLOC [hwtype=1 4e:82:b4:5a:d3:bd], cid=[no info], tid=0x543c122: lease 192.168.12.30 has been allocated for 3600 seconds

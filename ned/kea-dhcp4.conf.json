@@ -17,7 +17,8 @@
     "authoritative": true,
     "renew-timer": 1800,
     "option-data": [
-      { "name": "domain-name-servers", "data": "192.168.10.9" }
+      { "name": "domain-name-servers", "data": "192.168.10.9" },
+      {"name": "ntp-servers", "data": "150.214.94.5, 150.214.94.10"}
     ],
     "subnet4": [
       {
@@ -35,7 +36,7 @@
             ]
           },
           {
-            "pool": "192.168.10.101 - 192.168.10.230"  
+            "pool": "192.168.10.101 - 192.168.10.230" 
           }
         ],
         "reservations": [
@@ -47,13 +48,56 @@
             ]
           }
         ]
+      },
+      {
+        "id": 2,
+        "subnet": "192.168.11.0/24",
+        "option-data": [
+          { "name": "routers", "data": "192.168.11.254" },
+          { "name": "domain-search", "data": "lannister.lan" }
+        ],
+        "pools": [
+          {
+            "pool": "192.168.11.30 - 192.168.11.32",
+            "option-data": [
+              { "name": "routers", "data": "192.168.11.254" }
+            ]
+          },
+          {
+            "pool": "192.168.11.101 - 192.168.11.230" 
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "subnet": "192.168.12.0/24",
+        "option-data": [
+          { "name": "routers", "data": "192.168.12.254" },
+          { "name": "domain-search", "data": "targaryen.lan" }
+        ],
+        "pools": [
+          {
+            "pool": "192.168.12.30 - 192.168.12.32",
+            "option-data": [
+              { "name": "routers", "data": "192.168.12.254" }
+            ]
+          },
+          {
+            "pool": "192.168.12.101 - 192.168.12.230" 
+          }
+        ]
       }
     ],
     "loggers": [
-      {
-        "name": "*",
-        "severity": "DEBUG"
-      }
+        {
+            "name": "kea-dhcp4.leases",
+            "output-options": [
+                {
+                    "output": "/var/log/kea/dhcp.log"
+                }
+            ],
+            "severity": "INFO"
+        }
     ]
   }
 }
